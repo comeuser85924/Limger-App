@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Limger</string>
+    <string-array name="ct_title">
+        <item>電玩版</item>
+        <item>有趣版</item>
+        <item>美食版</item>
+        <item>動漫版</item>
+        <item>電影版</item>
+        <item>星座版</item>
+        <item>生活版</item>
+        <item>感情版</item>
+    </string-array>
+    <string-array name="ct_number">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="ct_sex">
+        <item>無</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="ct_time">
+        <item>30s</item>
+        <item>1</item>
+        <item>1:30s</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="alarm_on_toast">Stand Up Alarm On!</string>
+    <string name="alarm_off_toast">Stand Up Alarm Off!</string>
+    <string name="notification_title">Stand Up Alert!</string>
+    <string name="notification_text">You should stand up and walk around now!</string>
+    <string name="toggle_label">Stand Up Alarm</string>
+</resources>

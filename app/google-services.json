@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162190328035",
+    "firebase_url": "https://limger-df9ac.firebaseio.com",
+    "project_id": "limger-df9ac",
+    "storage_bucket": "limger-df9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162190328035:android:da5bcd70dd7deeb2",
+        "android_client_info": {
+          "package_name": "com.example.user.limger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162190328035-6usvnghfo7j42iff3mgghg7n1mh93tau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.limger",
+            "certificate_hash": "99644d8e3e4d7c1db36da32ff4a1fd628855c79b"
+          }
+        },
+        {
+          "client_id": "162190328035-90m4jo3pph7b3tkgipd7elri509cfe65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGr4nYDZ8lJr7krBkexjHPr0JWzNjQD4s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162190328035-90m4jo3pph7b3tkgipd7elri509cfe65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
